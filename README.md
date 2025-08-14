@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 <p align="center"><a href="https://laravel.com" target="_blank"><img src="https://raw.githubusercontent.com/laravel/art/master/logo-lockup/5%20SVG/2%20CMYK/1%20Full%20Color/laravel-logolockup-cmyk-red.svg" width="400" alt="Laravel Logo"></a></p>
 
 <p align="center">
@@ -59,3 +60,7 @@ If you discover a security vulnerability within Laravel, please send an e-mail t
 ## License
 
 The Laravel framework is open-sourced software licensed under the [MIT license](https://opensource.org/licenses/MIT).
+=======
+# Hospital-Management-System-Laravel-
+The Hospital Management System is a web-based application developed using Laravel (PHP Framework) that helps hospitals and clinics efficiently manage their daily operations. It provides a user-friendly interface for both administrators and patients 
+>>>>>>> 53f040c7b52e6e5682f528e37cefbaea577e6f0b
